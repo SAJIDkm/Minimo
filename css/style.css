@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0
+}
+header{
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    /* background-color: red; */
+    overflow: hidden;
+    margin-top: 30px;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+    
+list-style: none;
+
+/* background-color: green; */
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 50px;
+
+text-transform: uppercase;
+
+color: #626262;
+
+font-size: 16px;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+}
+.banner img{
+    
+/* width: 100%; */
+}
+.photodiary{
+    width: 80%;
+    margin-left: 10%;
+}
+.photodiary h5{
+
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-top: 100px;
+
+margin-bottom: 20px;
+}
+.photodiary h1{color: #626262;text-transform: capitalize;margin-bottom: 20px;}
+.photodiary p{
+
+color: #262262;
+
+font-size: 17px;
+
+margin-bottom: 50px;
+}
+.photodiary h6{
+    
+color: #b4ad9e;
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+font-weight: 500;
+    
+margin-bottom: 50px;
+}
